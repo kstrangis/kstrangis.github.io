@@ -6,6 +6,12 @@ body {
   font-family: Helvetica;
 }
 
+div {
+	width: 100vw;
+	height: 100vh;
+	margin: auto;
+}
+
 hr {
   width: 200px;
 }
