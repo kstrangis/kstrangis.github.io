@@ -5,9 +5,10 @@ body {
   background-position: center;
   background-size: contain;
   font-family: Helvetica;
-  width: 100vw;
-	height: 100vh;
-	margin: auto;
+}
+
+image {
+	max-width:100%;
 }
 
 hr {
@@ -15,7 +16,7 @@ hr {
 }
  
  h1 {
- 	color: #FFD6F9
+ 	color: #EBEBEB
  }
  
  p {
