@@ -9,14 +9,14 @@ body {
 	max-width: 100%;
 }
  
-.h1 {
+h1 {
  	color: #EBEBEB
  	font-size: 200px;
  	text-align: center;
  	font-family: Helvetica;
  }
  
-.p {
+p {
  	color: #EBEBEB;
  	font-size: 20px;
  	text-align: center;
