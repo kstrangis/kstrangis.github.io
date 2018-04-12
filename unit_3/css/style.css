@@ -9,14 +9,14 @@ img {
 	max-width: 100%;
 }
  
- h1 {
+#h1 {
  	color: #EBEBEB
  	font-size: 500px;
  	text-align: center;
  	font-family: Helvetica;
  }
  
- p {
+#p {
  	color: #EBEBEB;
  	font-size: 20px;
  	text-align: center;
@@ -29,4 +29,17 @@ img {
 	font-size: 100px;
 	text-align: center;
  	font-family: Helvetica;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
