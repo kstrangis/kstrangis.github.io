@@ -22,7 +22,11 @@ body, html {
  }
  
 #h2 {
-	font-size: 100px;
+	color: #9945AC;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+ 	font-family: Helvetica;
 }
 
 p {
@@ -33,11 +37,7 @@ p {
  }
 
 #slogan {
-	color: #9945AC;
-	font-weight: bold;
-	font-size: 50px;
-	text-align: center;
- 	font-family: Helvetica;
+	
 }
 
 .container {
