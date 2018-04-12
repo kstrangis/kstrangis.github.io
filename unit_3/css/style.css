@@ -13,7 +13,7 @@ body, html {
 .hero-text {
     text-align: center;
     position: absolute;
-    font-size: 50px;
+    font-size: 100px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -27,7 +27,7 @@ body, html {
 
 p {
  	color: #332F2C;
- 	font-size: 12px;
+ 	font-size: 20px;
  	text-align: center;
  	font-family: Helvetica;
  }
@@ -35,7 +35,7 @@ p {
 #slogan {
 	color: #9945AC;
 	font-weight: bold;
-	font-size: 22px;
+	font-size: 50px;
 	text-align: center;
  	font-family: Helvetica;
 }
