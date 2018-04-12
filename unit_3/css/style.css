@@ -23,8 +23,7 @@ body, html {
  
 #h2 {
 	color: #9945AC;
-	font-weight: bold;
-	font-size: 50px;
+	font-size: 40px;
 	text-align: center;
  	font-family: Helvetica;
 }
@@ -35,10 +34,6 @@ p {
  	text-align: center;
  	font-family: Helvetica;
  }
-
-#slogan {
-	
-}
 
 .container {
     position: relative;
