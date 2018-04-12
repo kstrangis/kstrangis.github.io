@@ -2,12 +2,10 @@ body {
   text-align: right;
   background-image: url("images/IMG_4022ed2_cr.jpg");
   background-size: cover;
-  background-position: center;
-  background-size: contain;
   font-family: Helvetica;
 }
 
-image {
+background-image {
 	max-width:100%;
 }
 
