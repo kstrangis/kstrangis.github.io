@@ -4,8 +4,9 @@ body {
   background-size: cover;
   font-family: Helvetica;
 }
+
 img {
-	max-width:100%;
+	max-width: 100vw;
 }
  
  h1 {
