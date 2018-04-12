@@ -11,12 +11,20 @@ body, html {
 }
 
 .hero-text h1 {
-    text-align: center;
+    text-align: right;
     position: absolute;
-    font-size: 80px;
+    font-size: 150px;
     color: #EBEBEB;
      font-family: Helvetica;
+
  }
+
+h2 {
+	font-size: 80px;
+	color: #9945AC;
+	text-align: right;
+	font-family: helvetica;
+}
 
 p {
  	color: #332F2C;
