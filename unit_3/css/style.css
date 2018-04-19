@@ -5,7 +5,7 @@ body, html {
 }
 
 .hero-image {
-  background-image: url("../images/IMG_4022ed2_cr.jpg");
+  background-image: url("../images/albertson_correct.jpg");
   background-size: cover;
   background-position: center;
   position: relative;
@@ -13,18 +13,16 @@ body, html {
 }
 
 .hero-text h1 {
-    text-align: right;
-    position: absolute;
-    font-size: 150px;
+    text-align: center;
+    font-size: 200px;
     color: #EBEBEB;
     font-family: 'Lato', sans-serif;
-    margin: 4em;
  }
 
 h2 {
 	font-size: 100px;
 	color: #9945AC;
-	text-align: right;
+	text-align: center;
 	font-family: 'Lato', sans-serif;
 }
 
@@ -34,7 +32,7 @@ p {
  	text-align: center;
  	font-family: 'Roboto Condensed', sans-serif;
   line-height: 1.5em;
-  margin: 2em;
+  margin: 5em;
  }
 
 .container {
